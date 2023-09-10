@@ -15,4 +15,4 @@ Note: The report is in portuguese.
 
 ![img](/assets/img/panoplvl4.JPG)
 ![img](/assets/img/light.JPG)
-![img](/assets/img/enemy_reload.PNG)
+![img](/assets/img/enemy_reload.png)

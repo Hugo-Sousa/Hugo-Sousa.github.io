@@ -1,4 +1,123 @@
 [
   
+  {
+    "title": "Japanese Temple Render",
+    "url": "/posts/TempleRender/",
+    "categories": "3D Art",
+    "tags": "3D Art, Blender",
+    "date": "2023-09-09 12:55:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "I made this render as an initial way to study proper arquitecture, from references found on Pintrest. All models present were made from scratch.",
+    "content": "I made this render as an initial way to study proper arquitecture, from references found on Pintrest. All models present were made from scratch."
+  },
+  
+  {
+    "title": "Creating 3D environments in Blender Course Results",
+    "url": "/posts/Blender/",
+    "categories": "3D Art, Online Course",
+    "tags": "3D Art, Blender",
+    "date": "2023-09-09 12:50:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "These are the final renders from the “Creating 3D environments in Blender” Course, in order. All of the models present were made from scratch.",
+    "content": "These are the final renders from the “Creating 3D environments in Blender” Course, in order. All of the models present were made from scratch."
+  },
+  
+  {
+    "title": "Final Bachelor’s Project",
+    "url": "/posts/SMT-FinalProject/",
+    "categories": "University Project, Programing",
+    "tags": "University, Unity, Game Design",
+    "date": "2023-09-09 12:40:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "Final Project of the Computer Science and Multimedia Bachelor’s. This was an experimental project with the objective of testing various Unity features, like URP, Shader Graph and Behaviour Trees, t...",
+    "content": "Final Project of the Computer Science and Multimedia Bachelor’s. This was an experimental project with the objective of testing various Unity features, like URP, Shader Graph and Behaviour Trees, that were not covered originally in the Unity modulo.Final Grade: 17 / 20Full ReportNote: The report is in portuguese."
+  },
+  
+  {
+    "title": "SMT Fusion App",
+    "url": "/posts/SMT-Fusion-App/",
+    "categories": "University Project, Application",
+    "tags": "University, Android, Application",
+    "date": "2023-09-09 12:30:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "Small university project based on the Shin Megami Tensei game series.",
+    "content": "Small university project based on the Shin Megami Tensei game series."
+  },
+  
+  {
+    "title": "Stay Away",
+    "url": "/posts/Stay-Away/",
+    "categories": "Gamejam, Design / Programming",
+    "tags": "Gamejam, Game Design, Unity",
+    "date": "2023-09-09 12:20:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "Made for Brackeys Game Jam 2022 - Theme: “You are not alone”Itch.io Game Page",
+    "content": "Made for Brackeys Game Jam 2022 - Theme: “You are not alone”Itch.io Game Page"
+  },
+  
+  {
+    "title": "Eternal Night",
+    "url": "/posts/Eternal-Night/",
+    "categories": "Gamejam, 3D Art",
+    "tags": "Gamejam, Game Design, Unity, 3D Art, Blender",
+    "date": "2023-09-09 12:10:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "Made for Gobal Game Jam 2022 - Theme: “Duality”Global Game Jam 2022 Page",
+    "content": "Made for Gobal Game Jam 2022 - Theme: “Duality”Global Game Jam 2022 Page"
+  },
+  
+  {
+    "title": "Trials Of Greed",
+    "url": "/posts/Trials-of-greed/",
+    "categories": "Gamejam, Design / Programming",
+    "tags": "Gamejam, Game Design, Unity",
+    "date": "2023-09-09 12:00:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "Made for Themed Horror Game Jam 11 - Theme: “A Game of Life and Death”Itch.io Game Page",
+    "content": "Made for Themed Horror Game Jam 11 - Theme: “A Game of Life and Death”Itch.io Game Page"
+  }
+  
 ]
 

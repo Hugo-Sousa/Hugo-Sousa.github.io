@@ -4,19 +4,228 @@
   <id>http://localhost:4000/</id>
   <title>Hugo Sousa's Portfolio</title>
   <subtitle>Junior GameDev Portfolio</subtitle>
-  <updated>2023-09-08T14:34:21+01:00</updated>
+  <updated>2023-09-10T16:58:17+01:00</updated>
   <author>
-    <name>your_full_name</name>
+    <name>Hugo Sousa</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 your_full_name </rights>
+  <rights> © 2023 Hugo Sousa </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Japanese Temple Render</title>
+    <link href="http://localhost:4000/posts/TempleRender/" rel="alternate" type="text/html" title="Japanese Temple Render" />
+    <published>2023-09-09T12:55:00+01:00</published>
+  
+    <updated>2023-09-09T12:55:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/TempleRender/</id>
+    <content src="http://localhost:4000/posts/TempleRender/" />
+    <author>
+      <name>Hugo Sousa</name>
+    </author>
+
+  
+    
+    <category term="3D Art" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I made this render as an initial way to study proper arquitecture, from references found on Pintrest. All models present were made from scratch.
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Creating 3D environments in Blender Course Results</title>
+    <link href="http://localhost:4000/posts/Blender/" rel="alternate" type="text/html" title="Creating 3D environments in Blender Course Results" />
+    <published>2023-09-09T12:50:00+01:00</published>
+  
+    <updated>2023-09-09T12:50:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/Blender/</id>
+    <content src="http://localhost:4000/posts/Blender/" />
+    <author>
+      <name>Hugo Sousa</name>
+    </author>
+
+  
+    
+    <category term="3D Art" />
+    
+    <category term="Online Course" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      These are the final renders from the “Creating 3D environments in Blender” Course, in order. All of the models present were made from scratch.
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Final Bachelor’s Project</title>
+    <link href="http://localhost:4000/posts/SMT-FinalProject/" rel="alternate" type="text/html" title="Final Bachelor’s Project" />
+    <published>2023-09-09T12:40:00+01:00</published>
+  
+    <updated>2023-09-09T12:40:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/SMT-FinalProject/</id>
+    <content src="http://localhost:4000/posts/SMT-FinalProject/" />
+    <author>
+      <name>Hugo Sousa</name>
+    </author>
+
+  
+    
+    <category term="University Project" />
+    
+    <category term="Programing" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Final Project of the Computer Science and Multimedia Bachelor’s. This was an experimental project with the objective of testing various Unity features, like URP, Shader Graph and Behaviour Trees, that were not covered originally in the Unity modulo.
+
+Final Grade: 17 / 20
+
+Full Report
+
+Note: The report is in portuguese.
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>SMT Fusion App</title>
+    <link href="http://localhost:4000/posts/SMT-Fusion-App/" rel="alternate" type="text/html" title="SMT Fusion App" />
+    <published>2023-09-09T12:30:00+01:00</published>
+  
+    <updated>2023-09-09T12:30:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/SMT-Fusion-App/</id>
+    <content src="http://localhost:4000/posts/SMT-Fusion-App/" />
+    <author>
+      <name>Hugo Sousa</name>
+    </author>
+
+  
+    
+    <category term="University Project" />
+    
+    <category term="Application" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Small university project based on the Shin Megami Tensei game series.
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Stay Away</title>
+    <link href="http://localhost:4000/posts/Stay-Away/" rel="alternate" type="text/html" title="Stay Away" />
+    <published>2023-09-09T12:20:00+01:00</published>
+  
+    <updated>2023-09-09T12:20:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/Stay-Away/</id>
+    <content src="http://localhost:4000/posts/Stay-Away/" />
+    <author>
+      <name>Hugo Sousa</name>
+    </author>
+
+  
+    
+    <category term="Gamejam" />
+    
+    <category term="Design / Programming" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Made for Brackeys Game Jam 2022 - Theme: “You are not alone”
+
+Itch.io Game Page
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
 
 </feed>
 

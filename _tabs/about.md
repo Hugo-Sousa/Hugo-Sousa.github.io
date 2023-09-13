@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[**My CV**](https://drive.google.com/file/d/1_pB20IQXkEfhOu8fMETpb6rUOdAa7-hT/view?usp=sharing)
+[**My CV**](https://drive.google.com/file/d/1WjUhSxFeUM7QTRUFUuuVpE4RSZXeYeM9/view?usp=sharing)
 
 **Hi**, my name is Hugo Sousa.
 
